@@ -1,2 +1,2 @@
-# mi-band-4-resources
+# Mi Band 4 Resources
 Custom resources for Mi Band 4
